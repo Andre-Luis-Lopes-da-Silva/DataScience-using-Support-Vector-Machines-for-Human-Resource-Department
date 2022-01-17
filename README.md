@@ -8,4 +8,4 @@ After the clearing of the data and the data exploratory analysis (EDA), some ins
 The columns: Attrition, OverTime and Over18 possessed “y” or “n” and they were replaced by “0” or “1”, because machine learning does not process variables like “string”.
 Variables that have a unique attribute for each employee are not useful for analysis. Therefore, these variables were removed, as the columns: EmployeeCount, StandardHours, Over18 and EmployeeNumber.
 The classes of this algorithm are class 1 (the employee will leave from company) and class 0 (the employee will stay in company). These will be the answers.
-The metrics obtained in this study were: Accuracy: 0.81, Precision: 0.43, Recall: 0.63, F1 Score: 0.7 and AUC: . These metrics vary each time we run the code. This variation is not very expressive.
+The metrics obtained in this study were: Accuracy: 0.81, Precision: 0.43, Recall: 0.63, F1 Score: 0.7 and AUC: 0.82. These metrics vary each time we run the code. This variation is not very expressive.
