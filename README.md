@@ -12,4 +12,4 @@ Variables that have a unique attribute for each employee are not useful for anal
 
 The classes of this algorithm are class 1 (the employee will leave from company) and class 0 (the employee will stay in company). These will be the answers.
 
-The metrics obtained in this study were: Accuracy: 0.87, Precision: 0.18, Recall: 0.58, F1 Score: 0.6 and AUC: 0.775. These metrics vary each time we run the code. This variation is not very expressive.
+The metrics obtained in this study were: Accuracy: 0.87, Precision: 0.18, Recall: 0.58, F1 Score: 0.6 and AUC: 0.775. 
